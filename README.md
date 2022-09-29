@@ -1,2 +1,2 @@
-# machine_learrning_project
+# machine_learning_project
 This is first machine learning project
