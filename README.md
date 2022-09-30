@@ -2,6 +2,14 @@
 
 This is first machine learning project
 
+### Software and account Requirement.
+
+1. [Github Account](https://github.com)
+2. [Heroku Account](https://dashboard.heroku.com/login)
+3. [VS Code IDE](https://code.visualstudio.com/download)
+4. [GIT cli](https://git-scm.com/downloads)
+5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
+
 Creating conda environment
 
 ```
@@ -121,4 +129,12 @@ To stop docker conatiner
 
 ```
 docker stop <conatiner_id>
+```
+
+Install automatically all packages that mentioned in setup.py,
+
+> Note: No need to run now pip install -r requirments.txt
+
+```
+python setup.py install
 ```
