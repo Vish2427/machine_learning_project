@@ -138,3 +138,9 @@ Install automatically all packages that mentioned in setup.py,
 ```
 python setup.py install
 ```
+
+Install ipynb kernal
+
+```
+pip install ipykernel
+```
